@@ -1,6 +1,6 @@
-a=int(input())
-b=int(input())
-c=a-b
+a1=int(input())
+b1=int(input())
+c=a1-b1
 if(c%2==0):
   print("even")
 else:
