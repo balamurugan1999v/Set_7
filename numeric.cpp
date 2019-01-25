@@ -8,7 +8,7 @@ char a[100];
 cin.get(a,100);
 t=strlen(a);
 for(i=0;i<t;i++)
-if((a[i]>='0')&&(a[i]<='9')
+if((a[i]>='0')&&(a[i]<='9'))
 c++;
 cout<<c;
 getch();
